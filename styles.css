@@ -138,6 +138,11 @@ body {
     background-image: linear-gradient(to right, #2d67d3, #080177); 
 }
 
+#services a {
+    color:#fff;
+    text-decoration: none;
+}
+
 /* -------------about us section----------------- */
 
 #about-us {
@@ -168,6 +173,10 @@ body {
     background-image: linear-gradient(to right, #2d67d3, #080177); 
 }
 
+#about-us a {
+    color:#fff;
+    text-decoration: none;
+}
 
 /* -------------testimonials----------------- */
 
@@ -200,6 +209,20 @@ body {
     border-radius: 20px;
     background-image: linear-gradient(to right, #2d67d3, #080177); 
 }
+
+#testimonials a {
+    color:#fff;
+    text-decoration: none;
+}
+
+#testimonials ul li {
+    margin: 10px 0;
+}
+
+#testimonials ul {
+    margin: 20px;
+}
+
 
 
 /* -------------social media----------------- */
